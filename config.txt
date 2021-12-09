@@ -1,8 +1,8 @@
 token = BOT_TOKEN
-owner = BOT_OWNER
+owner = 000000000000000001
 prefix = "BOT_PREFIX"
-game = "DEFAULT"
-status = dnd
+game = "Watching Secure Store"
+status = ONLINE  
 songinstatus=false
 altprefix = "NONE"
 success = "🎶"
@@ -26,7 +26,7 @@ aliases {
   queue = [ list ]
   remove = [ delete ]
   scsearch = []
-  search = [ ytsearch ]
+  search = []
   shuffle = []
   skip = []
   prefix = [ setprefix ]
