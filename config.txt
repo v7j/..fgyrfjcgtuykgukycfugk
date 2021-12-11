@@ -28,7 +28,7 @@ aliases {
   scsearch = []
   search = []
   shuffle = []
-  skip = []
+  skip = [ s ]
   prefix = [ setprefix ]
   setdj = []
   settc = []
